@@ -94,7 +94,7 @@ class DrawView(c: Context, attributeSet: AttributeSet) : View(c, attributeSet) {
         canvas.restore()
     }
 
-    //the below methods manages the touch response of the user on the screen
+    //the below methods manages the touch response of the user on the phone screen
 
     //the below methods manages the touch response of the user on the screen
     //firstly, we create a new Stroke and add it to the paths list
